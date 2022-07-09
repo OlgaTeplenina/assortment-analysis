@@ -1,6 +1,6 @@
 # Дипломная работа "Анализ ассортимента сети ортосалонов"
 
-Здесь вы можете ознакомиться с [кодом](https://github.com/OlgaTeplenina/assortment-analysis/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%D0%BD%D0%B0%D1%8F_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0.ipynb)
+Здесь вы можете ознакомиться с [кодом,](https://github.com/OlgaTeplenina/assortment-analysis/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%D0%BD%D0%B0%D1%8F_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0.ipynb)
 
 а здесь с [отчётом](https://github.com/OlgaTeplenina/assortment-analysis/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0.pdf)
 
